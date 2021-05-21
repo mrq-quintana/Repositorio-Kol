@@ -1,0 +1,22 @@
+
+.redes{
+    a{     
+        float: left;        
+    }
+    li{
+        margin-left: 200px;
+    }
+
+    @each $red in facebook , instagram , youtube, whatsapp{
+        li.#{$red}{ 
+            background-image: url("../Img/Redes/#{$red}.png");
+            background-size: cover;
+            background-position: center;
+            width: 50px;
+            height: 50px;
+            justify-content: center; 
+        }
+} 
+    li{
+        text-indent: -9999999px;
+    }}
