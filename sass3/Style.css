@@ -1,10 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Rancho&family=Zen+Dots&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+.redes {
+  width: 200px;
+  margin: auto;
+}
 .redes a {
   float: left;
+  width: auto;
 }
 .redes li {
-  margin-left: 200px;
+  margin-left: 0px;
+  width: auto;
 }
 .redes li.facebook {
   background-image: url("../Img/Redes/facebook.png");
@@ -310,9 +316,6 @@ body {
   width: 90%;
   height: 500px;
   margin-top: 30px;
-}
-.contenedor .redes {
-  margin: auto;
 }
 .contenedor .pie {
   width: 100%;

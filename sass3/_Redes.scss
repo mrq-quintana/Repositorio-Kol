@@ -1,10 +1,14 @@
 
 .redes{
+        width: 200px;
+        margin:auto;
     a{     
-        float: left;        
+        float: left;   
+        width: auto;     
     }
     li{
-        margin-left: 200px;
+        margin-left: 0px;
+        width: auto;
     }
 
     @each $red in facebook , instagram , youtube, whatsapp{
