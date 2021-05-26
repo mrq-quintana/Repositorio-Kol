@@ -1,0 +1,29 @@
+{
+  "name": "king-of-lyons",
+  "version": "1.0.0",
+  "description": "Venta de remeras de diseño ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrq-quintana/Repositorio-Kol.git"
+  },
+  "keywords": [
+    "VENTA",
+    "COMPRA",
+    "REMERAS",
+    "PERSONALIZADA",
+    "ESTAMPADO",
+    "SUBLIMACION",
+    "DISEÑO",
+    "LEON"
+  ],
+  "author": "Quintana Maximiliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrq-quintana/Repositorio-Kol/issues"
+  },
+  "homepage": "https://github.com/mrq-quintana/Repositorio-Kol#readme"
+}
